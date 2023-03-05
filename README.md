@@ -10,3 +10,6 @@ https://github.com/ak1096/NLP_Portfolio/blob/9cbed188b5b7de1e9d856d9994239f48ee5
 
 Portfolio Chapter 5: Word Guess Game
 https://github.com/ak1096/NLP_Portfolio/blob/main/WordGuessGame.py
+
+Portfolio Chapter 8: NGram
+https://github.com/ak1096/NLP_Portfolio/tree/main/Ngram-Language-Model
